@@ -1,0 +1,25 @@
+# Ignore l'environnement virtuel
+myenv/
+
+# Environnement virtuel
+myenv/
+venv/
+ENV/
+
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Fichiers de distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Fichiers de configuration locaux
+.env
+
+# Fichiers de logs
+*.log
+
+# Fichiers de cache
+.cache/
