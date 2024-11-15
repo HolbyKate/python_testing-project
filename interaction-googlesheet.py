@@ -1,6 +1,7 @@
 # Pour interagir avec Google Sheets use gspread avec l'authentification OAuth2
 
-mport gspread
+import module as newname
+import gspread
 from google.oauth2.service_account import Credentials
 from gspread_dataframe import set_with_dataframe
 
